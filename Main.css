@@ -10,3 +10,10 @@
     background-repeat: no-repeat;
 } 
 
+
+/* Target col-md-4 and > all images in that div */
+.col-md-4 > img{
+
+ height: 450px;   
+ width: 450px;
+}
