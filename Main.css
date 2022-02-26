@@ -13,7 +13,30 @@
 
 /* Target col-md-4 and > all images in that div */
 .col-md-4 > img{
-
- height: 450px;   
- width: 450px;
+    position: relative;
+    padding-left: 50px;
+    width: 450px;
 }
+
+.wrapper{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.search-wrapper{
+   
+    position: absolute;
+    align-items: center;
+    width: 100%;
+    
+    bottom: 50%;
+    left: 30%;
+    top: 50%;
+}
+.form-inline{
+    border-radius: 20px;
+  box-shadow: 12px 12px 10px 0.5px  rgb(133, 211, 185);
+  width: 100vh;
+  height: 30px;
+    
+} 
