@@ -1,0 +1,12 @@
+.p{
+    color: azure ;
+}
+
+.bg-image{
+    background-image: url(Imgs/Aptm_3.jpeg);
+    height: 100vh;
+    filter: blur(5px);
+    background-position: center center;
+    background-repeat: no-repeat;
+} 
+
