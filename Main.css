@@ -4,7 +4,12 @@
 
 
 
+.row{
+   padding-left: 15%;
+   margin-top: 5%;
+   margin-bottom: 5%;
 
+}
 
 
 
@@ -17,15 +22,14 @@
     height: 100vh;
     filter: blur(5px);
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat:round;
 } 
 
 
 /* Target col-md-4 and > all images in that div */
 .col-md-4 > img{
-    position: relative;
-    padding-left: 50px;
-    width: 450px;
+    position:relative;
+    width: 150px;
 }
 
 .wrapper{
