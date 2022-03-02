@@ -5,13 +5,18 @@
     padding-left: 3%;
 }
 
-
+.Top_container{
+  
+    padding-top: 2%;
+    background-color: #d4e9f5;
+    
+}
 
 
 .carousel-caption {
     
     border-radius: 80%;
-    background-color: rgb(46, 60, 190);
+    background-color: #0d6efd;
     opacity: 70%;
    align-items: center;
    top: 40%;
@@ -24,11 +29,12 @@
 }
 
 .row{
-   padding-left: 15%;
+   padding-left: 17.5%;
    margin-top: 5%;
    margin-bottom: 5%;
 
 }
+
 
 
 
@@ -39,7 +45,7 @@
 .bg-image{
     background-image: url(Imgs/Aptm_3.jpeg);
     height: 100vh;
-    filter: blur(5px);
+    filter: blur(3px);
     background-position: center center;
     background-repeat:no-repeat;
 } 
