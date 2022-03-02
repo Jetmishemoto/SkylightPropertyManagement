@@ -2,7 +2,7 @@
 
 
 .navbar-brand{
-    padding-left: 3%;
+    padding-left: 16%;
 }
 
 .Top_container{
@@ -49,6 +49,20 @@
     background-position: center center;
     background-repeat:no-repeat;
 } 
+
+
+
+
+.card-img-top{
+   width: 80px;
+}
+.card-body{
+    box-shadow: 12px 12px 10px 2px  #478ffc36;
+}
+
+
+
+
 
 
 /* Target col-md-4 and > all images in that div */
