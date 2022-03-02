@@ -1,8 +1,27 @@
 
 
 
+.navbar-brand{
+    padding-left: 3%;
+}
 
 
+
+
+.carousel-caption {
+    
+    border-radius: 80%;
+    background-color: rgb(46, 60, 190);
+    opacity: 70%;
+   align-items: center;
+   top: 40%;
+   bottom: 50%;
+}
+
+.carousel-item{
+    border-bottom: 40cm;
+    
+}
 
 .row{
    padding-left: 15%;
@@ -22,17 +41,19 @@
     height: 100vh;
     filter: blur(5px);
     background-position: center center;
-    background-repeat:round;
+    background-repeat:no-repeat;
 } 
 
 
 /* Target col-md-4 and > all images in that div */
 .col-md-4 > img{
     position:relative;
+
     width: 150px;
 }
 
-.wrapper{
+.wrapper_BG{
+    padding-top: 5%;
     position: relative;
     display: inline-block;
     width: 100%;
@@ -48,7 +69,7 @@
     top: 50%;
 }
 .form-inline{
-    border-radius: 20px;
+  border-radius: 20px;
   box-shadow: 12px 12px 10px 0.5px  rgb(123, 189, 201);
   width: 100vh;
   height: 30px;
