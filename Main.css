@@ -2,9 +2,14 @@
 
 
 .navbar-brand{
-    padding-left: 16%;
+    
 }
 
+.logo{
+  
+     max-width: 210px;
+     margin-left: 310px;
+}
 .Top_container{
   
   
@@ -30,7 +35,7 @@
 
 .row{
    padding-left:17%;
-   margin-top: 5%;
+   margin-top: 10%;
    margin-bottom: 5%;
 
 }
