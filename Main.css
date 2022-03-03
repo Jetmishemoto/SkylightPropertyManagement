@@ -45,7 +45,11 @@
 }
 .col-soc{
     
-   
+   margin-right: 0%;
+   padding-right: 0%;
+}
+.contact-top{
+    margin-right: 10%;
 }
 
 
@@ -95,6 +99,7 @@
    
     position: absolute;
     align-items: center;
+    justify-items: center;
     
     
     bottom: 50%;
