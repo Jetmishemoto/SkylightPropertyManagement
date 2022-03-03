@@ -29,11 +29,12 @@
 }
 
 .row{
-   padding-left:2%;
+   padding-left:17%;
    margin-top: 5%;
    margin-bottom: 5%;
 
 }
+
 
 .col-contacts{
    
@@ -41,6 +42,10 @@
     padding-top: 2%;
     padding-left: 60%;
     
+}
+.col-soc{
+    
+   
 }
 
 
