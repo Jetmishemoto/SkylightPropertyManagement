@@ -7,7 +7,7 @@
 
 .Top_container{
   
-   padding-top: 2%;
+  
    background-color: #d4e9f5;
     
 }
@@ -29,9 +29,12 @@
 }
 
 .row{
-   padding-left: 17.5%;
+   padding-left: 5%;
    margin-top: 5%;
    margin-bottom: 5%;
+   max-width: 17%
+   
+   
 
 }
 
@@ -95,3 +98,43 @@
   height: 30px;
     
 } 
+
+
+
+
+
+
+/* social media */
+
+
+.col-soc{
+
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.fa {
+    
+    align-items: center;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  /* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
